@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thekitchenengineer.github.io/sitemap.xml
