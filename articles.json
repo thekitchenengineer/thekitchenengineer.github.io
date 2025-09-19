@@ -2,16 +2,19 @@
   {
     "title": "The Science of Copper Pans",
     "url": "article1.html",
-    "image": "assets/copper-pan.jpg"
+    "image": "assets/copper-pan.jpg",
+    "description": "Why chefs love copper pans — exploring heat conductivity."
   },
   {
     "title": "The Tech Inside Modern Ovens",
     "url": "article2.html",
-    "image": "assets/oven.jpg"
+    "image": "assets/oven.jpg",
+    "description": "From sensors to airflow systems — how ovens keep precision."
   },
   {
     "title": "Blender Blades: Design & Science",
     "url": "article3.html",
-    "image": "assets/blender.jpg"
+    "image": "assets/blender.jpg",
+    "description": "A closer look at blade geometry and motor power efficiency."
   }
 ]
