@@ -307,3 +307,29 @@ footer {
 #load-more:hover {
   background: #555;
 }
+
+.navbar {
+  background: #fff;
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #444;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.navbar a:hover,
+.navbar a.active {
+  color: #d17a22; /* warm highlight color */
+}
