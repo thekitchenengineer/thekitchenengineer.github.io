@@ -1,0 +1,17 @@
+[
+  {
+    "title": "The Science of Blenders",
+    "url": "article1.html",
+    "image": "images/blender.jpg"
+  },
+  {
+    "title": "Why Sharp Knives Are Safer",
+    "url": "article2.html",
+    "image": "images/knife.jpg"
+  },
+  {
+    "title": "The Secret Tech of Ovens",
+    "url": "article3.html",
+    "image": "images/oven.jpg"
+  }
+]
