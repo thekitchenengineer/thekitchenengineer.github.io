@@ -2,16 +2,16 @@
   {
     "title": "The Science of Copper Pans",
     "url": "article1.html",
-    "image": "images/copper-pan.jpg"
+    "image": "assets/copper-pan.jpg"
   },
   {
     "title": "The Tech Inside Modern Ovens",
     "url": "article2.html",
-    "image": "images/oven.jpg"
+    "image": "assets/oven.jpg"
   },
   {
     "title": "Blender Blades: Design & Science",
     "url": "article3.html",
-    "image": "images/blender.jpg"
+    "image": "assets/blender.jpg"
   }
 ]
