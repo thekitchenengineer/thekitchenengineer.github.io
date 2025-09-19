@@ -1,17 +1,17 @@
 [
   {
-    "title": "The Science of Blenders",
+    "title": "The Science of Copper Pans",
     "url": "article1.html",
-    "image": "images/blender.jpg"
+    "image": "images/copper-pan.jpg"
   },
   {
-    "title": "Why Sharp Knives Are Safer",
+    "title": "The Tech Inside Modern Ovens",
     "url": "article2.html",
-    "image": "images/knife.jpg"
+    "image": "images/oven.jpg"
   },
   {
-    "title": "The Secret Tech of Ovens",
+    "title": "Blender Blades: Design & Science",
     "url": "article3.html",
-    "image": "images/oven.jpg"
+    "image": "images/blender.jpg"
   }
 ]
