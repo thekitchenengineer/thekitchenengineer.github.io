@@ -333,3 +333,23 @@ footer {
 .navbar a.active {
   color: #d17a22; /* warm highlight color */
 }
+
+.breadcrumb {
+  font-size: 0.9rem;
+  color: #7a7a7a; /* muted gray */
+  margin: 10px 0 20px;
+}
+
+.breadcrumb a {
+  color: #444; /* slightly darker */
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb .sep {
+  margin: 0 6px;
+  color: #aaa;
+}
